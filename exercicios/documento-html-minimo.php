@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Minha página web</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<!-- Conteúdos de página -->
+	<h1>Página web</h1>
+	<p>Esta é minha primeira página web</p>
+</body>
+
+</html>
